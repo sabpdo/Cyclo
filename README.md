@@ -1,11 +1,8 @@
-# How to code a webapp with this skeleton
+# Cyclo 
 
-## What you need to change in the skeleton
+Starter code for HarvardHacks 2024
 
-- Change the Frontend CLIENT_ID (Skeleton.js) to your team's CLIENT_ID (obtain this at https://bit.ly/gauth-mit)
-- Change the Server CLIENT_ID to the same CLIENT_ID (auth.js)
-
-## How to run this skeleton
+## How to run this code
 
 First, 'npm install'
 Then open two seperate terminals, and 'npm run hotloader' in the first, and 'npm start' in the second.
